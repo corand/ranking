@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://aloinargixao.com/static/css/web/style.css">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body ng-app="emaitzak">
+
+<h1><img src="http://aloinargixao.com/static/img/eskudo_aloina.png"> Ranking Aloña Mendi</h1>
+
+
+    <div class="container" ng-controller="MainCtrl">
+      <div class="row">
+        <ul class="nav nav-tabs">
+          <li class="active"><a href="#">Masculino</a></li>
+          <!-- <li><a href="#">Femenino</a></li> -->
+        </ul>
+         <ul class="nav nav-pills">
+            <li ng-repeat="froga in frogak" ng-click="aukeratuFroga(froga)" ng-class="{'active': froga.prueba == aukeratua }">
+              <a>{{froga.prueba}}</a>
+            </li>
+          </ul>
+      </div>
+
+      <div class="row">
+        <table class="table">
+          <tr>
+            <th>Atleta</th>
+            <th>Categoria</th>
+            <th>Marca</th>
+            <th>Fecha</th>
+            <th>Lugar</th>
+          </tr>
+        
+          <tr ng-repeat="emaitza in emaitzak.resultados">
+            {{emaitza}}
+            <td>{{emaitza.atleta}}</td>
+            <td>{{emaitza.categoria}}</td>
+            <td>{{emaitza.marca}}</td>
+            <td>{{emaitza.fecha}}</td>
+            <td>{{emaitza.lugar}}</td>
+          </tr>
+        </table>
+      </div>
+
+      <footer>
+        <p><b>Aloña Mendi Atletismoa</b></p>
+        <a href="http://aloinargixao.com">aloinargixao.com</a>
+      </footer>
+
+    </div>
+
+
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
