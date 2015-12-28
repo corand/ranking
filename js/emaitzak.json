@@ -1573,5 +1573,239 @@
 				"lugar": "Donostia"
 			}
 		]
+	},
+	{
+		"prueba": "10KM Ruta",
+		"resultados": [
+			{
+				"atleta": "Yeray Varela Amor",
+				"categoria": "Senior",
+				"marca":"30:36",
+				"fecha": "21 Mayo 2015",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Alberto Revuelta Garcia",
+				"categoria": "Veterano",
+				"marca":"30:36",
+				"fecha": "21 Mayo 2015",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Sergio Garcia Garcia",
+				"categoria": "Senior",
+				"marca":"31:03",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Walit Ouaalit",
+				"categoria": "Senior",
+				"marca":"32:34",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Anastasio Gomez Garcia",
+				"categoria": "V-35",
+				"marca":"32:43",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Aritz Ruiz de la Torre",
+				"categoria": "Senior",
+				"marca":"32:43",
+				"fecha": "30 Noviembre 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Mikel Ugarte Ramos",
+				"categoria": "Promesa",
+				"marca":"33:15",
+				"fecha": "21 Mayo 2015",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Kike Cecilia Polite",
+				"categoria": "Senior",
+				"marca":"34:44",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Unai Hernandez Muñoz",
+				"categoria": "Promesa",
+				"marca":"35:17",
+				"fecha": "05 Mayo 2012",
+				"lugar": "Zamudio"
+			},
+			{
+				"atleta": "Juan Seño Lopez",
+				"categoria": "V-35",
+				"marca":"35:38",
+				"fecha": "15 Marzo 2015",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Jose Luis Garcia de la Fuente",
+				"categoria": "Veterano",
+				"marca":"36:29",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Benito Fernandez",
+				"categoria": "Veterano",
+				"marca":"36:50",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Iñaki Taboada",
+				"categoria": "Senior",
+				"marca":"37:04",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Ramon Varela Gende",
+				"categoria": "V-50",
+				"marca":"37:08",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Felix Santiago",
+				"categoria": "Senior",
+				"marca":"38:36",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Javi Fragua Rodriguez",
+				"categoria": "V-45",
+				"marca":"38:42",
+				"fecha": "15 Marzo 2015",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Carlos Montero Juan",
+				"categoria": "Veterano",
+				"marca":"39:28",
+				"fecha": "21 Mayo 2015",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Xabi Zumarraga Uriarte",
+				"categoria": "V-35",
+				"marca":"39:54",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Txema Rueda Ayuso",
+				"categoria": "Veterano",
+				"marca":"40:25",
+				"fecha": "10 Marzo 2012",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Txemi Lara Sanz",
+				"categoria": "Veterano",
+				"marca":"40:33",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Mikel Fernandez Almena",
+				"categoria": "V-35",
+				"marca":"40:51",
+				"fecha": "02 Abril 2011",
+				"lugar": "Zamudio"
+			},
+			{
+				"atleta": "Iñaki Gomez Desvaux",
+				"categoria": "V-35",
+				"marca":"41:43",
+				"fecha": "17 Marzo 2013",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Juan Carlos Ugarte",
+				"categoria": "V-50",
+				"marca":"44:36",
+				"fecha": "02 Abril 2011",
+				"lugar": "Zamudio"
+			}
+		]
+	},
+	{
+		"prueba": "Behobia San Sebastian",
+		"resultados": [
+			{
+				"atleta": "Yeray Varela Amor",
+				"categoria": "Senior",
+				"marca":"1:04:58",
+				"fecha": "2012",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Ion Otermin",
+				"categoria": "Senior",
+				"marca":"1:09:45",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Iñaki Taboada",
+				"categoria": "Senior",
+				"marca":"1:13:52",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Ramon Varela Gende",
+				"categoria": "V-55",
+				"marca":"1:20:09",
+				"fecha": "09 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Javi Fragua",
+				"categoria": "Veterano",
+				"marca":"1:24:02",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Txema Rueda Ayuso",
+				"categoria": "Veterano",
+				"marca":"1:26:54",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Miguel Plaza",
+				"categoria": "Veterano",
+				"marca":"1:30:54",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Vicente Hernandez",
+				"categoria": "V-50",
+				"marca":"1:30:54",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			},
+			{
+				"atleta": "Xabi Zumarraga Uriarte",
+				"categoria": "Senior",
+				"marca":"1:31:06",
+				"fecha": "9 Noviembre 2014",
+				"lugar": "Behobia"
+			}
+		]
 	}
 ]

@@ -30,6 +30,7 @@
       <div class="row">
         <table class="table">
           <tr>
+            <th></th>
             <th>Atleta</th>
             <th>Marca</th>
             <th>Categoria</th>
@@ -38,7 +39,7 @@
           </tr>
         
           <tr ng-repeat="emaitza in emaitzak.resultados">
-            {{emaitza}}
+            <td>{{$index+1}}</td>
             <td>{{emaitza.atleta}}</td>
             <td>{{emaitza.marca}}</td>
             <td>{{emaitza.categoria}}</td>
