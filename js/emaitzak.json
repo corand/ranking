@@ -1476,7 +1476,6 @@
 			}
 		]
 	},
-
 	{
 		"prueba": "10000m Pista",
 		"resultados": [
@@ -1805,6 +1804,116 @@
 				"marca":"1:31:06",
 				"fecha": "9 Noviembre 2014",
 				"lugar": "Behobia"
+			}
+		]
+	},
+	{
+		"prueba": "Media Maraton",
+		"resultados": [
+			{
+				"atleta": "Jose Manuel Manso Irurtia",
+				"categoria": "Senior",
+				"marca":"01:08:44",
+				"fecha": "24 Mayo 1998",
+				"lugar": "Logroño"
+			},
+			{
+				"atleta": "Yeray Varela Amor",
+				"categoria": "Promesa",
+				"marca":"01:10:31",
+				"fecha": "28 Marzo 2009",
+				"lugar": "Azkoitia"
+			},
+			{
+				"atleta": "Juan Antonio Soto Carrizo",
+				"categoria": "Veterano",
+				"marca":"01:13:36",
+				"fecha": "15 Mayo 2005",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "David Huebra Gomez",
+				"categoria": "Senior",
+				"marca":"01:14:50",
+				"fecha": "08 Octubre 2006",
+				"lugar": "Miranda"
+			},
+			{
+				"atleta": "Gari Laskurain Arrieta",
+				"categoria": "Senior",
+				"marca":"01:16:10",
+				"fecha": "29 Marzo 2003",
+				"lugar": "Azkoitia"
+			},
+			{
+				"atleta": "Sergio Garcia Garcia",
+				"categoria": "Senior",
+				"marca":"01:16:17",
+				"fecha": "31 Marzo 2012",
+				"lugar": "Azkoitia"
+			},
+			{
+				"atleta": "Tasio Gomez Garcia",
+				"categoria": "Veterano",
+				"marca":"01:16:25",
+				"fecha": "31 Marzo 2012",
+				"lugar": "Azkoitia"
+			},
+			{
+				"atleta": "Asier Aranburu San Pedro",
+				"categoria": "Veterano",
+				"marca":"01:17:44",
+				"fecha": "30 Noviembre 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Juan Seño Lopez",
+				"categoria": "V-35",
+				"marca":"01:19:23",
+				"fecha": "18 Marzo 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Iñaki Taboada",
+				"categoria": "Veterano",
+				"marca":"01:20:02",
+				"fecha": "30 Noviembre 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Benito Fernandez",
+				"categoria": "Veterano",
+				"marca":"01:23:48",
+				"fecha": "16 Diciembre 2012",
+				"lugar": "Vitoria"
+			},
+			{
+				"atleta": "Mikel Fernandez Almena",
+				"categoria": "Veterano",
+				"marca":"01:23:50",
+				"fecha": "28 Marzo 2009",
+				"lugar": "Azkoitia"
+			},
+			{
+				"atleta": "Javi Fragua",
+				"categoria": "V-40",
+				"marca":"01:28:08",
+				"fecha": "18 Mayo 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Txema Rueda Ayuso",
+				"categoria": "Veterano",
+				"marca":"01:30:12",
+				"fecha": "15 Mayo 2011",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Miguel Plaza",
+				"categoria": "Veterano",
+				"marca":"01:35:31",
+				"fecha": "18 Mayo 2014",
+				"lugar": "Donostia"
 			}
 		]
 	}
