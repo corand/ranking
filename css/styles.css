@@ -1,6 +1,8 @@
 h1{ color: darkred; text-align: center;}
 h1 img{ width: 50px; }
 body{ font-size: 14px;}
+.aukeraketa select{ margin-bottom:10px;}
+.aukeraketa{ margin-bottom:5px; }
 ul.nav-pills li { cursor:pointer;}
 footer{ font-size:0.8em; text-align: center; padding:50px;}
 footer p{ margin:0;}

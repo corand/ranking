@@ -15,16 +15,16 @@
 
 
     <div class="container" ng-controller="MainCtrl">
-      <div class="row">
-        <ul class="nav nav-tabs">
-          <li class="active"><a href="#">Masculino</a></li>
-          <!-- <li><a href="#">Femenino</a></li> -->
-        </ul>
-         <ul class="nav nav-pills">
-            <li ng-repeat="froga in frogak" ng-click="aukeratuFroga(froga)" ng-class="{'active': froga.prueba == aukeratua }">
-              <a>{{froga.prueba}}</a>
-            </li>
-          </ul>
+      <div class="row aukeraketa">
+        <div class="col-md-3 col-md-offset-3">
+          <select class="form-control">
+            <option>Masculino</option>
+            <option>Femenino</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <select class="form-control" ng-options="froga as froga.prueba for froga in ranking_masculino" ng-model="froga" ng-change="aukeratuFroga()"></select>
+        </div>
       </div>
 
       <div class="row">
