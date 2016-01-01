@@ -17,13 +17,13 @@
     <div class="container" ng-controller="MainCtrl">
       <div class="row aukeraketa">
         <div class="col-md-3 col-md-offset-3">
-          <select class="form-control">
+          <select class="form-control" ng-model="genero" ng-change="generoChange()">
             <option>Masculino</option>
             <option>Femenino</option>
           </select>
         </div>
         <div class="col-md-3">
-          <select class="form-control" ng-options="froga as froga.prueba for froga in ranking_masculino" ng-model="froga" ng-change="aukeratuFroga()"></select>
+          <select class="form-control" ng-options="froga as froga.prueba for froga in ranking" ng-model="froga" ng-change="aukeratuFroga()"></select>
         </div>
       </div>
 
