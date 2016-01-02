@@ -539,70 +539,119 @@
 	},
 
 	{
-		"prueba": "100 vallas(0,914)",
+		"prueba": "100 vallas",
 		"resultados": [
 			{
-				"atleta": "Igor Zabala Arrese",
+				"atleta": "Irene Paredes Hernandez",
+				"categoria": "Juvenil",
+				"marca":"15:42",
+				"fecha": "10 Mayo 2008",
+				"lugar": "Durango"
+			},
+			{
+				"atleta": "Amaia Solanas Ariztimuño",
 				"categoria": "Cadete",
-				"marca":"15:87",
-				"fecha": "01 Junio 2002",
+				"marca":"17:08",
+				"fecha": "13 Junio 1993",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Miriam Maiz Etxaniz",
+				"categoria": "Cadete",
+				"marca":"17:43",
+				"fecha": "30 Marzo 1996",
+				"lugar": "Ordizia"
+			},
+			{
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Cadete",
+				"marca":"17:44",
+				"fecha": "30 Mayo 2009",
+				"lugar": "Eibar"
+			},
+			{
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Cadete",
+				"marca":"17:50",
+				"fecha": "03 Junio 2000",
 				"lugar": "Basauri"
 			},
 			{
-				"atleta": "Carlos Benitez Oiarbide",
+				"atleta": "Irati Zabaleta Etxarri",
 				"categoria": "Cadete",
-				"marca":"17:98",
-				"fecha": "04 Junio 1995",
+				"marca":"17:57",
+				"fecha": "11 Junio 2008",
 				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Maite Hernandez Muñoz",
+				"categoria": "Cadete",
+				"marca":"18:35",
+				"fecha": "30 Mayo 2009",
+				"lugar": "Eibar"
+			},
+			{
+				"atleta": "Ainoa Ugarte Ramos",
+				"categoria": "Cadete",
+				"marca":"18:82",
+				"fecha": "08 Junio 2005",
+				"lugar": "Eibar"
+			},
+			{
+				"atleta": "Amaia Martinez de Arenaza",
+				"categoria": "Cadete",
+				"marca":"19:92",
+				"fecha": "24 Junio 2006",
+				"lugar": "Vitoria"
 			}
 		]
 	},
 
 
 	{
-		"prueba": "110 vallas(1,00)",
+		"prueba": "100 vallas(0,85)",
 		"resultados": [
 			{
-				"atleta": "Gorka Alonso Iriarte",
-				"categoria": "Junior",
-				"marca":"16:55",
-				"fecha": "01 Mayo 1994",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Igor Zabala Arrese",
+				"atleta": "Irene Paredes Hernandez",
 				"categoria": "Juvenil",
+				"marca":"16:85",
+				"fecha": "26 Mayo 2007",
+				"lugar": "Castellon"
+			},
+			{
+				"atleta": "Amaia Solanas Ariztimuño",
+				"categoria": "Junior",
 				"marca":"16:86",
-				"fecha": "06 Mayo 2003",
+				"fecha": "26 Junio 1994",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Javi Gomez Desvaux",
-				"categoria": "Senior",
-				"marca":"18:20",
-				"fecha": "26 Mayo 1990",
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Juvenil",
+				"marca":"17:70",
+				"fecha": "31 Mayo 2000",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Carlos Benitez Oiarbide",
-				"categoria": "Junior",
-				"marca":"18:96",
-				"fecha": "28 Abril 1997",
+				"atleta": "Miren Solanas Ariztimuño",
+				"categoria": "Juvenil",
+				"marca":"17:76",
+				"fecha": "11 Junio 1995",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Joel Reyes Santos",
-				"categoria": "Junior",
-				"marca":"19:42",
-				"fecha": "10 Junio 2012",
-				"lugar": "Donostia"
+				"atleta": "Amaia Diaz Abaigar",
+				"categoria": "Juvenil",
+				"marca":"17:98",
+				"fecha": "14 Junio 1997",
+				"lugar": "Gasteiz"
 			},
 			{
-				"atleta": "Juan Luis Reyes Santos",
-				"categoria": "Junior",
-				"marca":"25:72",
-				"fecha": "10 Mayo 2014",
-				"lugar": "Durango"
+				"atleta": "Ainara Manso Garcia",
+				"categoria": "Juvenil",
+				"marca":"18:37",
+				"fecha": "29 Marzo 1998",
+				"lugar": "Gasteiz"
 			}
 		]
 	},
@@ -611,25 +660,67 @@
 		"prueba": "300 vallas",
 		"resultados": [
 			{
-				"atleta": "Mikel Irizar",
+				"atleta": "Irati Zabaleta Etxarri",
 				"categoria": "Cadete",
-				"marca":"43:60",
-				"fecha": "01 Mayo 1990",
-				"lugar": "Tolosa"
+				"marca":"49:93",
+				"fecha": "03 Junio 2008",
+				"lugar": "Durango"
 			},
 			{
-				"atleta": "Igor Zabala Arrese",
+				"atleta": "Irati Zurutuza Renon",
 				"categoria": "Cadete",
-				"marca":"45:60",
-				"fecha": "04 Mayo 2002",
+				"marca":"50:13",
+				"fecha": "01 Mayo 2009",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "David Castaño Manzano",
+				"atleta": "Marina Arregi Mager",
 				"categoria": "Cadete",
-				"marca":"50:61",
-				"fecha": "24 Junio 2008",
+				"marca":"50:44",
+				"fecha": "03 Junio 2001",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Ainoa Ugarte Ramos",
+				"categoria": "Cadete",
+				"marca":"51:69",
+				"fecha": "25 Junio 2005",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Edurne Matias Gaztañaga",
+				"categoria": "Cadete",
+				"marca":"52:50",
+				"fecha": "28 Marzo 2008",
 				"lugar": "Salou"
+			},
+			{
+				"atleta": "Maitane Hernandez Muñoz",
+				"categoria": "Cadete",
+				"marca":"52:91",
+				"fecha": "27 Mayo 2009",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Miriam Maiz Etxaniz",
+				"categoria": "Cadete",
+				"marca":"52:92",
+				"fecha": "09 Mayo 1995",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Leire Makibar Aztiria",
+				"categoria": "Cadete",
+				"marca":"54:32",
+				"fecha": "01 Mayo 1995",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Itziar Matilla Nogueruelo",
+				"categoria": "Cadete",
+				"marca":"54:59",
+				"fecha": "24 Junio 2006",
+				"lugar": "Vitoria"
 			}
 		]
 	},
@@ -638,31 +729,31 @@
 		"prueba": "400 vallas",
 		"resultados": [
 			{
-				"atleta": "Javi Gomez Desvaux",
-				"categoria": "Senior",
-				"marca":"58:80",
-				"fecha": "30 Abril 1988",
-				"lugar": "Ordizia"
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Juvenil",
+				"marca":"01:03:98",
+				"fecha": "18 Junio 2011",
+				"lugar": "Granollers"
 			},
 			{
-				"atleta": "Joel Reyes Santos",
-				"categoria": "Promesa",
-				"marca":"1:01:12",
-				"fecha": "10 Mayo 2014",
+				"atleta": "Ainara Manso Garcia",
+				"categoria": "Juvenil",
+				"marca":"1:11:00",
+				"fecha": "31 Mayo 1998",
+				"lugar": "Eibar"
+			},
+			{
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Juvenil",
+				"marca":"1:12:80",
+				"fecha": "25 Mayo 2002",
 				"lugar": "Durango"
 			},
 			{
-				"atleta": "Ion Ayastui",
+				"atleta": "Loli Ortiz",
 				"categoria": "Junior",
-				"marca":"1:12:80",
-				"fecha": "01 Mayo 1993",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Xabi Zumarraga Uriarte",
-				"categoria": "V-35",
-				"marca":"1:17:80",
-				"fecha": "03 Mayo 2014",
+				"marca":"1:18:22",
+				"fecha": "01 Mayo 1994",
 				"lugar": "Donostia"
 			}
 		]
@@ -672,53 +763,102 @@
 		"prueba": "600m",
 		"resultados": [
 			{
-				"atleta": "Sergio Garcia Garcia",
+				"atleta": "Irati Zurutuza Renon",
 				"categoria": "Cadete",
-				"marca":"1:36:49",
-				"fecha": "15 Mayo 2004",
+				"marca":"1:43:05",
+				"fecha": "27 Mayo 2009",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Edurne Matias Gaztañaga",
+				"categoria": "Cadete",
+				"marca":"1:45:03",
+				"fecha": "28 Junio 2008",
+				"lugar": "Durango"
+			},
+			{
+				"atleta": "Ainoa Ugarte Ramos",
+				"categoria": "Cadete",
+				"marca":"1:48:09",
+				"fecha": "11 Junio 2005",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Iosu Diez Catalina",
+				"atleta": "Ohiana Rodriguez",
 				"categoria": "Cadete",
-				"marca":"1:38:60",
-				"fecha": "26 Noviembre 1994",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Arkaitz Fragua Caramanzana",
-				"categoria": "Cadete",
-				"marca":"1:40:43",
-				"fecha": "23 Diciembre 2015",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Barrios Navascues",
-				"categoria": "Cadete",
-				"marca":"1:42:46",
-				"fecha": "17 Junio 2006",
+				"marca":"1:48:23",
+				"fecha": "01 Mayo 1995",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Andoni Iglesias Liroz",
+				"atleta": "Irene Paredes Hernandez",
+				"categoria": "Juvenil",
+				"marca":"1:49:03",
+				"fecha": "11 Junio 2008",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Eider Kortabarria Rodriguez",
+				"categoria": "Infantil",
+				"marca":"1:49:39",
+				"fecha": "03 Mayo 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Leire Alberdi",
 				"categoria": "Cadete",
-				"marca":"1:43:00",
-				"fecha": "24 Junio 2006",
+				"marca":"1:53:42",
+				"fecha": "05 Diciembre 1992",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Ainoa Larrea Urreztarazu",
+				"categoria": "Cadete",
+				"marca":"1:54:49",
+				"fecha": "22 Enero 2006",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Cadete",
+				"marca":"1:56:68",
+				"fecha": "07 Abril 2001",
 				"lugar": "Vitoria"
 			},
 			{
-				"atleta": "Mikel Diez Murillo",
+				"atleta": "Miriam Maiz Etxaniz",
 				"categoria": "Cadete",
-				"marca":"1:43:19",
-				"fecha": "03 Diciembre 2005",
+				"marca":"1:59:06",
+				"fecha": "30 Diciembre 1995",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Oier Landa Argoña",
-				"categoria": "Infantil",
-				"marca":"1:46:79",
-				"fecha": "03 Mayo 2014",
-				"lugar": "Donostia"
+				"atleta": "Iara Lopez Perez Munain",
+				"categoria": "Cadete",
+				"marca":"2:00:46",
+				"fecha": "22 Enero 2006",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Maitane Hernandez Muñoz",
+				"categoria": "Cadete",
+				"marca":"2:06:70",
+				"fecha": "26 Diciembre 2008",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Maitane Arrizabalaga Gil",
+				"categoria": "Cadete",
+				"marca":"2:07:36",
+				"fecha": "01 Mayo 2009",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Garazi Zabaleta Etxarri",
+				"categoria": "Cadete",
+				"marca":"2:14:20",
+				"fecha": "26 Diciembre 2008",
+				"lugar": "Belodromo Donostia"
 			}
 		]
 	},
@@ -727,123 +867,90 @@
 		"prueba": "800m",
 		"resultados": [
 			{
-				"atleta": "Walid Ouaalit Ducara",
-				"categoria": "Promesa",
-				"marca":"1:54:72",
-				"fecha": "22 Junio 2011",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Promesa",
-				"marca":"1:57:42",
-				"fecha": "06 Febrero 2011",
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Juvenil",
+				"marca":"2:24:04",
+				"fecha": "12 Febrero 2011",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Promesa",
-				"marca":"1:59:66",
-				"fecha": "30 Mayo 2010",
+				"atleta": "Sara Gomez Lopez",
+				"categoria": "Junior",
+				"marca":"2:24:48",
+				"fecha": "18 Julio 2015",
+				"lugar": "Durango"
+			},
+
+			{
+				"atleta": "Mº Eli Martinez Alejos",
+				"categoria": "Junior",
+				"marca":"2:26:84",
+				"fecha": "22 Mayo 1994",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Jaime Sanchez Arrazola",
-				"categoria": "Junior",
-				"marca":"2:00:01",
-				"fecha": "01 Mayo 1994",
+				"atleta": "Leire Irizar Aranguren",
+				"categoria": "Juvenil",
+				"marca":"2:29:70",
+				"fecha": "07 Mayo 2005",
 				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Yeray Varela Amor",
+				"atleta": "Marisol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"2:37:36",
+				"fecha": "05 Marzo 2011",
+				"lugar": "Antequera",
+				"record": "Record Euskadi"
+			},
+			{
+				"atleta": "Ainoa Ugarte Ramos",
+				"categoria": "Juvenil",
+				"marca":"2:38:64",
+				"fecha": "19 Noviembre 2005",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Edurne Matias Gaztañaga",
+				"categoria": "Juvenil",
+				"marca":"2:39:23",
+				"fecha": "26 Diciembre 2008",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Juvenil",
+				"marca":"2:41:93",
+				"fecha": "13 Diciembre 2002",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Irene Paredes Hernandez",
+				"categoria": "Juvenil",
+				"marca":"2:47:66",
+				"fecha": "26 Mayo 2007",
+				"lugar": "Castellon"
+			},
+			{
+				"atleta": "Ainara Manso Garcia",
+				"categoria": "Juvenil",
+				"marca":"2:56:13",
+				"fecha": "29 Marzo 1998",
+				"lugar": "Gasteiz"
+			},
+			{
+				"atleta": "Miren Solanas Ariztimuño",
 				"categoria": "Junior",
-				"marca":"2:01:34",
-				"fecha": "11 Julio 2009",
+				"marca":"3:15:31",
+				"fecha": "01 Abril 1995",
 				"lugar": "Tolosa"
 			},
 			{
-				"atleta": "Raul Garcia",
+				"atleta": "Amaia Solanas Ariztimuño",
 				"categoria": "Junior",
-				"marca":"2:02:99",
-				"fecha": "01 Mayo 1994",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Tasio Gomez Garcia",
-				"categoria": "Veterano",
-				"marca":"2:03:63",
-				"fecha": "22 Junio 2011",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Antonio Perez",
-				"categoria": "Senior",
-				"marca":"2:04:10",
-				"fecha": "01 Mayo 1994",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Dayber Losada Fernandez",
-				"categoria": "Junior",
-				"marca":"2:06:66",
-				"fecha": "13 Mayo 2015",
+				"marca":"3:21:24",
+				"fecha": "01 Abril 1995",
 				"lugar": "Tolosa"
-			},
-			{
-				"atleta": "Joel Reyes Santos",
-				"categoria": "Junior",
-				"marca":"2:09:86",
-				"fecha": "25 Enero 2013",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Asier Aranburu San Pedro",
-				"categoria": "V-40",
-				"marca":"2:09:86",
-				"fecha": "01 Marzo 2015",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Joseba Angulo Zaldua",
-				"categoria": "Juvenil",
-				"marca":"2:10:15",
-				"fecha": "15 Mayo 2007",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Iñaki Gomez Desvaux",
-				"categoria": "V-35",
-				"marca":"2:18:61",
-				"fecha": "19 Diciembre 2014",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Diez Murillo",
-				"categoria": "Juvenil",
-				"marca":"2:20:00",
-				"fecha": "14 Diciembre 2007",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Ugarte Ramos",
-				"categoria": "Juvenil",
-				"marca":"2:20:25",
-				"fecha": "22 Mayo 2010",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Xabi Zumarraga Uriarte",
-				"categoria": "V-35",
-				"marca":"2:28:96",
-				"fecha": "05 Enero 2015",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Endika Santamaria",
-				"categoria": "Juvenil",
-				"marca":"2:31:83",
-				"fecha": "29 Diciembre 2009",
-				"lugar": "Belodromo Donostia"
 			}
 		]
 	},
