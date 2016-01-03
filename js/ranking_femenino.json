@@ -959,144 +959,95 @@
 		"prueba": "1000m",
 		"resultados": [
 			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Senior",
-				"marca":"2:36:63",
-				"fecha": "13 Mayo 2015",
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Cadete",
+				"marca":"3:13:60",
+				"fecha": "14 Febrero 2009",
 				"lugar": "Tolosa"
 			},
 			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Senior",
-				"marca":"2:40:74",
-				"fecha": "13 Mayo 2015",
-				"lugar": "Tolosa"
+				"atleta": "Sara Gomez Lopez",
+				"categoria": "Junior",
+				"marca":"3:16:04",
+				"fecha": "12 Junio 2015",
+				"lugar": "Zumarraga"
 			},
 			{
-				"atleta": "Sergio Garcia Garcia",
+				"atleta": "Leire Irizar Aranguren",
 				"categoria": "Juvenil",
-				"marca":"2:42:62",
+				"marca":"3:17:25",
 				"fecha": "10 Mayo 2006",
 				"lugar": "Tolosa"
 			},
 			{
-				"atleta": "Jaime Sanchez Arrazola",
+				"atleta": "Mª Eli Martinez Alejos",
 				"categoria": "Cadete",
-				"marca":"2:42:98",
-				"fecha": "01 Mayo 1990",
-				"lugar": "Tolosa"
+				"marca":"3:21:65",
+				"fecha": "01 Diciembre 1994",
+				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "David Castaño Manzano",
+				"atleta": "Ainoa Ugarte Ramos",
 				"categoria": "Cadete",
-				"marca":"2:53:38",
+				"marca":"3:23:82",
+				"fecha": "16 Abril 2005",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Eider Kortabarria Rodriguez",
+				"categoria": "Infantil",
+				"marca":"3:23:90",
+				"fecha": "03 Mayo 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Edurne Matias Gaztañaga",
+				"categoria": "Cadete",
+				"marca":"3:26:07",
 				"fecha": "12 Abril 2008",
 				"lugar": "Tolosa"
 			},
 			{
-				"atleta": "Iker Martinez Garralda",
-				"categoria": "Infantil",
-				"marca":"2:58:52",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
+				"atleta": "Iara Lopez Perez Munain",
+				"categoria": "Cadete",
+				"marca":"3:31:79",
+				"fecha": "29 Diciembre 2005",
+				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Joseba Angulo Zaldua",
+				"atleta": "Nerea Diez Murillo",
 				"categoria": "Infantil",
-				"marca":"3:03:80",
-				"fecha": "12 Marzo 2005",
-				"lugar": "Zumarraga"
+				"marca":"3:42:03",
+				"fecha": "15 Mayo 2004",
+				"lugar": "Eibar"
 			},
 			{
-				"atleta": "Iñaki Gomez Desvaux",
+				"atleta": "Gloria Albarran",
 				"categoria": "V-35",
-				"marca":"3:03:99",
+				"marca":"3:50:65",
 				"fecha": "12 Junio 2015",
 				"lugar": "Zumarraga"
 			},
 			{
-				"atleta": "Arkaitz Fragua Caramanzana",
-				"categoria": "Infantil",
-				"marca":"3:04:64",
-				"fecha": "12 Junio 2005",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Dayber Losada Fernandez",
-				"categoria": "Junior",
-				"marca":"3:04:65",
-				"fecha": "12 Junio 2005",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Mikel Diez Murillo",
+				"atleta": "Maitana Arrizabalaga Gil",
 				"categoria": "Cadete",
-				"marca":"3:05:23",
-				"fecha": "14 Mayo 2006",
-				"lugar": "Durango"
+				"marca":"3:51:80",
+				"fecha": "14 Febrero 2009",
+				"lugar": "Tolosa"
 			},
 			{
-				"atleta": "Gaizka Peñagarikano",
-				"categoria": "Infantil",
-				"marca":"3:08:91",
-				"fecha": "11 Abril 2015",
-				"lugar": "Salou"
-			},
-			{
-				"atleta": "Beñat Etxabe",
+				"atleta": "Maitane Hernandez Muñoz",
 				"categoria": "Cadete",
-				"marca":"3:09:50",
-				"fecha": "31 Enero 2009",
+				"marca":"4:00:40",
+				"fecha": "14 Febrero 2009",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Ane Garralda Udabe",
+				"categoria": "Cadete",
+				"marca":"4:42:90",
+				"fecha": "24 Junio 2006",
 				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Beñat Guridi Larrañaga",
-				"categoria": "Infantil",
-				"marca":"3:10:65",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Javi Fragua Rodriguez",
-				"categoria": "V-45",
-				"marca":"3:20:70",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Eritz Campos Aretzaga",
-				"categoria": "Infantil",
-				"marca":"3:20:70",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Jon Seño Nebrada",
-				"categoria": "Infantil",
-				"marca":"3:24:90",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Andres Gutierrez",
-				"categoria": "Cadete",
-				"marca":"3:29:64",
-				"fecha": "07 Enero 1995",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Tomas Sanchez Perez",
-				"categoria": "V-40",
-				"marca":"3:33:38",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "V-45",
-				"marca":"3:50:50",
-				"fecha": "12 Junio 2015",
-				"lugar": "Zumarraga"
 			}
 		]
 	},
@@ -1105,172 +1056,47 @@
 		"prueba": "1500m",
 		"resultados": [
 			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Senior",
-				"marca":"3:57:87",
-				"fecha": "15 Julio 2012",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Senior",
-				"marca":"3:58:13",
-				"fecha": "29 Diciembre 2010",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Walid Ouaalit",
-				"categoria": "Promesa",
-				"marca":"3:59:49",
-				"fecha": "14 Mayo 2011",
-				"lugar": "Tolosa"
-			},
-			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Senior",
-				"marca":"4:00:93",
-				"fecha": "11 Julio 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Anastasio Gomez Garcia",
-				"categoria": "V-35",
-				"marca":"4:03:25",
-				"fecha": "03 Junio 2012",
-				"lugar": "Bilbao"
-			},
-			{
-				"atleta": "Jesus Manuel Manso Irurtia",
-				"categoria": "Senior",
-				"marca":"4:13:90",
-				"fecha": "27 Junio 1998",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Antonio Perez",
-				"categoria": "Senior",
-				"marca":"4:14:30",
-				"fecha": "01 Mayo 1993",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Kike Cecilia Alonso",
-				"categoria": "Veterano",
-				"marca":"4:15:89",
-				"fecha": "2 Diciembre 2012",
-				"lugar": "Belodromo Donostia"
-			}
-			,{
-				"atleta": "Gari Laskurain",
-				"categoria": "Senior",
-				"marca":"4:15:92",
-				"fecha": "21 Junio 2003",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Dayber Losada Fernandez",
+				"atleta": "Sara Gomez Lopez",
 				"categoria": "Junior",
-				"marca":"4:26:02",
-				"fecha": "06 Junio 2015",
-				"lugar": "Durango"
+				"marca":"4:58:66",
+				"fecha": "07 Febrero 2015",
+				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Joseba Angulo Zaldua",
+				"atleta": "Eli Martinez Alejos",
+				"categoria": "Junior",
+				"marca":"5:08:03",
+				"fecha": "08 Mayo 1994",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"5:08:85",
+				"fecha": "05 Febrero 2011",
+				"lugar": "Belodromo Donostia",
+				"record": "Record Euskadi W"
+			},
+			{
+				"atleta": "Leire Irizar Aranguren",
 				"categoria": "Juvenil",
-				"marca":"4:26:76",
-				"fecha": "05 Mayo 2007",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-40",
-				"marca":"4:29:98",
-				"fecha": "26 Diciembre 2015",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "David Huebra Gomez",
-				"categoria": "V-35",
-				"marca":"4:32:45",
-				"fecha": "17 Enero 2010",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Iñaki Gomez Desvaux",
-				"categoria": "V-35",
-				"marca":"4:45:22",
-				"fecha": "18 Julio 2015",
+				"marca":"5:10:19",
+				"fecha": "13 Mayo 2006",
 				"lugar": "Durango"
 			},
 			{
-				"atleta": "Joel Reyes Santos",
-				"categoria": "Junior",
-				"marca":"4:45:65",
-				"fecha": "17 Diciembre 2011",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Diez Murillo",
+				"atleta": "Irati Zurutuza Renon",
 				"categoria": "Juvenil",
-				"marca":"4:48:70",
-				"fecha": "03 Febrero 2007",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Jose Luis Garcia de la Fuente",
-				"categoria": "V-55",
-				"marca":"4:52:07",
-				"fecha": "02 Junio 2013",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Javier Fragua Rodriguez",
-				"categoria": "V-45",
-				"marca":"4:57:72",
-				"fecha": "18 Julio 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Carlos Montero de Juan",
-				"categoria": "V-40",
-				"marca":"4:59:75",
-				"fecha": "03 Mayo 2014",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Juan Luis Reyes Santos",
-				"categoria": "Junior",
-				"marca":"5:05:87",
-				"fecha": "05 Mayo 2013",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Jorge Bravo Barquilla",
-				"categoria": "V-35",
-				"marca":"5:09:40",
-				"fecha": "05 Enero 2015",
+				"marca":"5:21:42",
+				"fecha": "23 Enero 2010",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Carlos Benitez Oiarbide",
-				"categoria": "Junior",
-				"marca":"5:16:51",
-				"fecha": "28 Abril 1997",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "V-45",
-				"marca":"5:24:96",
-				"fecha": "07 Junio 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Leo Germosen",
+				"atleta": "Edurne Matias Gaztañaga",
 				"categoria": "Juvenil",
-				"marca":"5:33:76",
-				"fecha": "10 Junio 2014",
-				"lugar": "Tolosa"
+				"marca":"5:48:20",
+				"fecha": "31 Enero 2009",
+				"lugar": "Vitoria"
 			}
 		]
 	},
@@ -1279,93 +1105,44 @@
 		"prueba": "MILLA",
 		"resultados": [
 			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Promesa",
-				"marca":"4:34",
-				"fecha": "01 Mayo 2010",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Walid Ouaalit",
-				"categoria": "Promesa",
-				"marca":"4:35",
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"5:48",
 				"fecha": "09 Abril 2011",
 				"lugar": "Laredo"
 			},
 			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Junior",
-				"marca":"4:38",
-				"fecha": "09 Abril 2011",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Promesa",
-				"marca":"4:40",
-				"fecha": "01 Mayo 2009",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Anastasio Gomez Garcia",
-				"categoria": "V-35",
-				"marca":"4:55",
-				"fecha": "01 Mayo 2010",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Dayber Losada",
-				"categoria": "Junior",
-				"marca":"5:14",
-				"fecha": "12 Septiembre 2015",
-				"lugar": "Legazpia"
-			},
-			{
-				"atleta": "Joel Reyes Santos",
-				"categoria": "Promesa",
-				"marca":"5:19",
-				"fecha": "22 Septiembre 2012",
-				"lugar": "Getxo"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-40",
-				"marca":"5:27",
-				"fecha": "28 Septiembre 2014",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "V-35",
-				"marca":"5:34:01",
-				"fecha": "19 Marzo 2011",
-				"lugar": "Amurrio"
-			},
-			{
-				"atleta": "Iker Martinez Garralda",
-				"categoria": "Infantil",
-				"marca":"5:37",
-				"fecha": "28 Septiembre 2014",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Arkaitz Fragua Caramanzana",
-				"categoria": "Infantil",
-				"marca":"5:51",
-				"fecha": "28 Septiembre 2014",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Jon Seño Nebreda",
-				"categoria": "Infantil",
-				"marca":"6:28",
-				"fecha": "28 Septiembre 2014",
-				"lugar": "Burgos"
-			},
-			{
-				"atleta": "Gabriel Jimeno Dominguez",
+				"atleta": "Sara Gomez Lopez",
 				"categoria": "Cadete",
-				"marca":"6:45",
+				"marca":"5:52",
+				"fecha": "09 Abril 2011",
+				"lugar": "Laredo"
+			},
+			{
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Cadete",
+				"marca":"6:01",
+				"fecha": "04 Abril 2009",
+				"lugar": "Camargo"
+			},
+			{
+				"atleta": "Edurne Matias Gaztañaga",
+				"categoria": "Cadete",
+				"marca":"6:09",
+				"fecha": "05 Abril 2008",
+				"lugar": "Lasarte"
+			},
+			{
+				"atleta": "Maitane Hernandez Muñoz",
+				"categoria": "Cadete",
+				"marca":"6:37",
+				"fecha": "05 Abril 2008",
+				"lugar": "Lasarte"
+			},
+			{
+				"atleta": "Eider Kortabarria Rodriguez",
+				"categoria": "Infantil",
+				"marca":"6:39",
 				"fecha": "28 Septiembre 2014",
 				"lugar": "Burgos"
 			}
@@ -1376,193 +1153,68 @@
 		"prueba": "3000m",
 		"resultados": [
 			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Senior",
-				"marca":"8:23:36",
-				"fecha": "25 Mayo 2013",
-				"lugar": "Corrales de Buelna"
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"10:48:64",
+				"fecha": "05 Marzo 2011",
+				"lugar": "Antequera",
+				"record": "Record Euskadi W"
 			},
 			{
-				"atleta": "Walid Ouaalit Ducara",
-				"categoria": "Senior",
-				"marca":"8:34:13",
-				"fecha": "29 Diciembre 2011",
-				"lugar": "Belodromo Donostia"
+				"atleta": "Mª Eli Martinez Alejos",
+				"categoria": "Junior",
+				"marca":"11:04:20",
+				"fecha": "28 Marzo 1995",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Promesa",
-				"marca":"8:39:00",
-				"fecha": "11 Diciembre 2010",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Jesus Manuel Manso Irurtia",
-				"categoria": "Senior",
-				"marca":"8:44:60",
-				"fecha": "09 Enero 1999",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Anastasio Gomez Garcia",
-				"categoria": "V-35",
-				"marca":"8:49:63",
+				"atleta": "Sara Gomez Lopez",
+				"categoria": "Infantil",
+				"marca":"11:22:78",
 				"fecha": "27 Diciembre 2012",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Promesa",
-				"marca":"8:52:92",
-				"fecha": "28 Diciembre 2013",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Gari Laskurain",
-				"categoria": "Senior",
-				"marca":"9:04:21",
-				"fecha": "20 Diciembre 2002",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Kike Cecilia Polite",
-				"categoria": "Senior",
-				"marca":"9:07:06",
-				"fecha": "28 Diciembre 2013",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Ugarte Ramos",
-				"categoria": "Promesa",
-				"marca":"9:12:38",
-				"fecha": "13 Mayo 2015",
-				"lugar": "Tolosa"
-			},
-			{
-				"atleta": "Andoni Correas Illarramendi",
-				"categoria": "Senior",
-				"marca":"9:13:58",
-				"fecha": "25 Mayo 2013",
-				"lugar": "Corrales de Buelna"
-			},
-			{
-				"atleta": "Peio Gil Gil",
+				"atleta": "Maite Rajado",
 				"categoria": "Cadete",
-				"marca":"9:39:00",
-				"fecha": "01 Mayo 1993",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-40",
-				"marca":"9:40:84",
-				"fecha": "20 Junio 2015",
-				"lugar": "Tolosa"
-			},
-			{
-				"atleta": "Joseba Angulo Zaldua",
-				"categoria": "Juvenil",
-				"marca":"9:43:52",
-				"fecha": "28 Abril 2007",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Asier Aranburu San Pedro",
-				"categoria": "M-35",
-				"marca":"9:48:93",
-				"fecha": "26 Diciembre 2014",
+				"marca":"11:41:00",
+				"fecha": "05 Diciembre 1992",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Dayber Losada Fernandez",
-				"categoria": "Promesa",
-				"marca":"9:55:28",
-				"fecha": "23 Diciembre 2015",
+				"atleta": "Gloria Albarran",
+				"categoria": "V-35",
+				"marca":"11:42:48",
+				"fecha": "04 Enero 2015",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "David Castaño Manzano",
+				"atleta": "Ainoa Ugarte Ramos",
 				"categoria": "Cadete",
-				"marca":"10:04:00",
-				"fecha": "03 Mayo 2008",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Jose Luis Garcia de la Fuente",
-				"categoria": "V-55",
-				"marca":"10:08:55",
-				"fecha": "03 Marzo 2013",
-				"lugar": "Zaragoza"
-			},
-			{
-				"atleta": "Iñaki Gomez Desvaux",
-				"categoria": "V-35",
-				"marca":"10:18:17",
-				"fecha": "23 Diciembre 2015",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Adrian Veleda Roa",
-				"categoria": "Juvenil",
-				"marca":"10:22:78",
-				"fecha": "28 Abril 2007",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Iker Martinez Garralda",
-				"categoria": "Infantil",
-				"marca":"10:24:11",
-				"fecha": "26 Abril 2015",
-				"lugar": "Eibar"
-			},
-			{
-				"atleta": "Mikel Diez Murillo",
-				"categoria": "Juvenil",
-				"marca":"10:29:81",
-				"fecha": "13 Abril 2007",
-				"lugar": "Castellon"
-			},
-			{
-				"atleta": "Benito Fernandez",
-				"categoria": "V-40",
-				"marca":"10:33:88",
-				"fecha": "19 Marzo 2013",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Arkaitz Fragua Caramanzana",
-				"categoria": "Infantil",
-				"marca":"10:40:20",
-				"fecha": "26 Abril 2015",
-				"lugar": "Eibar"
-			},
-			{
-				"atleta": "Javi Fragua",
-				"categoria": "V-40",
-				"marca":"10:43:83",
-				"fecha": "07 Marzo 2013",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "V-35",
-				"marca":"10:58:12",
-				"fecha": "17 Enero 2010",
+				"marca":"12:05:29",
+				"fecha": "22 Mayo 2005",
 				"lugar": "Vitoria"
 			},
 			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "V-45",
-				"marca":"11:17:16",
-				"fecha": "04 Mayo 2014",
-				"lugar": "Tolosa"
+				"atleta": "Irati Zurutuza Renon",
+				"categoria": "Infantil",
+				"marca":"12:16:95",
+				"fecha": "01 Mayo 2007",
+				"lugar": "Elgoibar"
 			},
 			{
-				"atleta": "Tomas Sanchez",
-				"categoria": "V-45",
-				"marca":"11:50:42",
-				"fecha": "23 Diciembre 2015",
-				"lugar": "Belodromo Donostia"
+				"atleta": "Iara Lopez Perez Munain",
+				"categoria": "Infantil",
+				"marca":"12:05:05",
+				"fecha": "02 Mayo 2005",
+				"lugar": "Elgoibar"
+			},
+			{
+				"atleta": "Nerea Diez Murillo",
+				"categoria": "Infantil",
+				"marca":"12:47:92",
+				"fecha": "08 Mayo 2004",
+				"lugar": "Irun"
 			}
 		]
 	},
@@ -1571,95 +1223,19 @@
 		"prueba": "5000m",
 		"resultados": [
 			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Senior",
-				"marca":"14:32:37",
-				"fecha": "11 Mayo 2013",
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-45",
+				"marca":"18:53:00",
+				"fecha": "31 Mayo 2008",
+				"lugar": "Durango",
+				"record": "Record Euskadi W"
+			},
+			{
+				"atleta": "Mª Eli Martinez Alejos",
+				"categoria": "Junior",
+				"marca":"19:33:11",
+				"fecha": "11 Junio 1995",
 				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Promesa",
-				"marca":"14:56:75",
-				"fecha": "26 Mayo 2012",
-				"lugar": "Arrasate"
-			},
-			{
-				"atleta": "Jesus Manuel Manso Irurtia",
-				"categoria": "Senior",
-				"marca":"14:57:70",
-				"fecha": "23 Julio 1998",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Anastasio Gomez Garcia",
-				"categoria": "V-35",
-				"marca":"15:37:47",
-				"fecha": "26 Mayo 2012",
-				"lugar": "Arrasate"
-			},
-			{
-				"atleta": "Kike Cecilia Polite",
-				"categoria": "V-35",
-				"marca":"16:17:20",
-				"fecha": "02 Junio 2013",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Andoni Correas Illarramendi",
-				"categoria": "Senior",
-				"marca":"16:24:08",
-				"fecha": "10 Junio 2015",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Joseba Angulo Zaldua",
-				"categoria": "Juvenil",
-				"marca":"16:37:05",
-				"fecha": "26 Mayo 2007",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Mikel Ugarte Ramos",
-				"categoria": "Promesa",
-				"marca":"16:38:94",
-				"fecha": "10 Junio 2015",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Ramon Varela Gende",
-				"categoria": "V-50",
-				"marca":"17:42:86",
-				"fecha": "13 Junio 2009",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-40",
-				"marca":"17:13:98",
-				"fecha": "07 Junio 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Javi Fragua",
-				"categoria": "V-45",
-				"marca":"18:31:40",
-				"fecha": "07 Junio 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "V-45",
-				"marca":"19:15:81",
-				"fecha": "08 Junio 2014",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "V-35",
-				"marca":"19:25:79",
-				"fecha": "13 Junio 2009",
-				"lugar": "Durango"
 			}
 		]
 	},
@@ -1667,11 +1243,12 @@
 		"prueba": "10000m Pista",
 		"resultados": [
 			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Junior",
-				"marca":"33:45:70",
-				"fecha": "16 Abril 2005",
-				"lugar": "Barakaldo"
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"39:47:70",
+				"fecha": "23 Agosto 2012",
+				"lugar": "Polonia",
+				"record": "Record Euskadi W."
 			}
 		]
 	},
@@ -1679,84 +1256,11 @@
 		"prueba": "1500m Obstaculos",
 		"resultados": [
 			{
-				"atleta": "Peio Gil Gil",
+				"atleta": "Irati Zurutuza Renon",
 				"categoria": "Cadete",
-				"marca":"4:47:10",
-				"fecha": "01 Mayo 1995",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "David Castaño Manzano",
-				"categoria": "Cadete",
-				"marca":"04:53:14",
-				"fecha": "28 Junio 2008",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Joseba Angulo Zaldua",
-				"categoria": "Cadete",
-				"marca":"5:02:20",
-				"fecha": "14 Mayo 2006",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Josu Diez Catalina",
-				"categoria": "Cadete",
-				"marca":"05:03:06",
-				"fecha": "01 Mayo 1994",
-				"lugar": "Donostia"
-			}
-		]
-	},
-	{
-		"prueba": "2000m Obstaculos",
-		"resultados": [
-			{
-				"atleta": "Joseba Angulo Zaldua",
-				"categoria": "Juvenil",
-				"marca":"07:06:23",
-				"fecha": "19 Mayo 2007",
+				"marca":"5:54:89",
+				"fecha": "20 Junio 2009",
 				"lugar": "Vitoria"
-			}
-		]
-	},
-	{
-		"prueba": "3000m Obstaculos",
-		"resultados": [
-			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Junior",
-				"marca":"09:41:99",
-				"fecha": "09 Mayo 2009",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Promesa",
-				"marca":"09:59:49",
-				"fecha": "21 Abril 2007",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Peio Gil Gil",
-				"categoria": "Junior",
-				"marca":"10:04:70",
-				"fecha": "01 Mayo 1991",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "David Huebra Gomezº",
-				"categoria": "V-40",
-				"marca":"10:59:45",
-				"fecha": "10 Mayo 2014",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Juan Cruz Arrizabalaga",
-				"categoria": "Senior",
-				"marca":"11:27:80",
-				"fecha": "10 Mayo 1993",
-				"lugar": "Donostia"
 			}
 		]
 	},
@@ -1764,165 +1268,32 @@
 		"prueba": "10KM Ruta",
 		"resultados": [
 			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Senior",
-				"marca":"30:36",
-				"fecha": "21 Mayo 2015",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Alberto Revuelta Garcia",
-				"categoria": "Veterano",
-				"marca":"30:36",
-				"fecha": "21 Mayo 2015",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Senior",
-				"marca":"31:03",
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"38:14",
 				"fecha": "10 Marzo 2012",
 				"lugar": "Laredo"
+			}
+		]
+	},
+	
+	{
+		"prueba": "Media Maraton",
+		"resultados": [
+			{
+				"atleta": "Mº Sol Ramos Leon",
+				"categoria": "W-50",
+				"marca":"01:22:59",
+				"fecha": "20 Mayo 2012",
+				"lugar": "Donostia",
+				"record": "Record Euskadi W."
 			},
 			{
-				"atleta": "Walit Ouaalit",
+				"atleta": "Terea Serrano",
 				"categoria": "Senior",
-				"marca":"32:34",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Anastasio Gomez Garcia",
-				"categoria": "V-35",
-				"marca":"32:43",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Aritz Ruiz de la Torre",
-				"categoria": "Senior",
-				"marca":"32:43",
-				"fecha": "30 Noviembre 2014",
+				"marca":"01:45:13",
+				"fecha": "18 Mayo 2014",
 				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Mikel Ugarte Ramos",
-				"categoria": "Promesa",
-				"marca":"33:15",
-				"fecha": "21 Mayo 2015",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Kike Cecilia Polite",
-				"categoria": "Senior",
-				"marca":"34:44",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Unai Hernandez Muñoz",
-				"categoria": "Promesa",
-				"marca":"35:17",
-				"fecha": "05 Mayo 2012",
-				"lugar": "Zamudio"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-35",
-				"marca":"35:38",
-				"fecha": "15 Marzo 2015",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Jose Luis Garcia de la Fuente",
-				"categoria": "Veterano",
-				"marca":"36:29",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Benito Fernandez",
-				"categoria": "Veterano",
-				"marca":"36:50",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Iñaki Taboada",
-				"categoria": "Senior",
-				"marca":"37:04",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Ramon Varela Gende",
-				"categoria": "V-50",
-				"marca":"37:08",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Felix Santiago",
-				"categoria": "Senior",
-				"marca":"38:36",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Javi Fragua Rodriguez",
-				"categoria": "V-45",
-				"marca":"38:42",
-				"fecha": "15 Marzo 2015",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Carlos Montero Juan",
-				"categoria": "Veterano",
-				"marca":"39:28",
-				"fecha": "21 Mayo 2015",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Xabi Zumarraga Uriarte",
-				"categoria": "V-35",
-				"marca":"39:54",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "Veterano",
-				"marca":"40:25",
-				"fecha": "10 Marzo 2012",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Txemi Lara Sanz",
-				"categoria": "Veterano",
-				"marca":"40:33",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "V-35",
-				"marca":"40:51",
-				"fecha": "02 Abril 2011",
-				"lugar": "Zamudio"
-			},
-			{
-				"atleta": "Iñaki Gomez Desvaux",
-				"categoria": "V-35",
-				"marca":"41:43",
-				"fecha": "17 Marzo 2013",
-				"lugar": "Laredo"
-			},
-			{
-				"atleta": "Juan Carlos Ugarte",
-				"categoria": "V-50",
-				"marca":"44:36",
-				"fecha": "02 Abril 2011",
-				"lugar": "Zamudio"
 			}
 		]
 	},
@@ -1930,215 +1301,16 @@
 		"prueba": "Behobia San Sebastian",
 		"resultados": [
 			{
-				"atleta": "Yeray Varela Amor",
+				"atleta": "Gloria Albarran Granado",
 				"categoria": "Senior",
-				"marca":"1:04:58",
-				"fecha": "11 Noviembre 2012",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Ion Otermin",
-				"categoria": "Senior",
-				"marca":"1:09:45",
+				"marca":"01:34:37",
 				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Iñaki Taboada",
-				"categoria": "Senior",
-				"marca":"1:13:52",
-				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Ramon Varela Gende",
-				"categoria": "V-55",
-				"marca":"1:20:09",
-				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Javi Fragua",
-				"categoria": "Veterano",
-				"marca":"1:24:02",
-				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "Veterano",
-				"marca":"1:26:54",
-				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Miguel Plaza",
-				"categoria": "Veterano",
-				"marca":"1:30:54",
-				"fecha": "09 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Vicente Hernandez",
-				"categoria": "V-50",
-				"marca":"1:30:54",
-				"fecha": "9 Noviembre 2014",
-				"lugar": "Behobia"
-			},
-			{
-				"atleta": "Xabi Zumarraga Uriarte",
-				"categoria": "Senior",
-				"marca":"1:31:06",
-				"fecha": "9 Noviembre 2014",
 				"lugar": "Behobia"
 			}
 		]
 	},
 	{
-		"prueba": "Media Maraton",
-		"resultados": [
-			{
-				"atleta": "Jose Manuel Manso Irurtia",
-				"categoria": "Senior",
-				"marca":"01:08:44",
-				"fecha": "24 Mayo 1998",
-				"lugar": "Logroño"
-			},
-			{
-				"atleta": "Yeray Varela Amor",
-				"categoria": "Promesa",
-				"marca":"01:10:31",
-				"fecha": "28 Marzo 2009",
-				"lugar": "Azkoitia"
-			},
-			{
-				"atleta": "Juan Antonio Soto Carrizo",
-				"categoria": "Veterano",
-				"marca":"01:13:36",
-				"fecha": "15 Mayo 2005",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "David Huebra Gomez",
-				"categoria": "Senior",
-				"marca":"01:14:50",
-				"fecha": "08 Octubre 2006",
-				"lugar": "Miranda"
-			},
-			{
-				"atleta": "Gari Laskurain Arrieta",
-				"categoria": "Senior",
-				"marca":"01:16:10",
-				"fecha": "29 Marzo 2003",
-				"lugar": "Azkoitia"
-			},
-			{
-				"atleta": "Sergio Garcia Garcia",
-				"categoria": "Senior",
-				"marca":"01:16:17",
-				"fecha": "31 Marzo 2012",
-				"lugar": "Azkoitia"
-			},
-			{
-				"atleta": "Tasio Gomez Garcia",
-				"categoria": "Veterano",
-				"marca":"01:16:25",
-				"fecha": "31 Marzo 2012",
-				"lugar": "Azkoitia"
-			},
-			{
-				"atleta": "Asier Aranburu San Pedro",
-				"categoria": "Veterano",
-				"marca":"01:17:44",
-				"fecha": "30 Noviembre 2014",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Juan Seño Lopez",
-				"categoria": "V-35",
-				"marca":"01:19:23",
-				"fecha": "18 Marzo 2014",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Iñaki Taboada",
-				"categoria": "Veterano",
-				"marca":"01:20:02",
-				"fecha": "30 Noviembre 2014",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Benito Fernandez",
-				"categoria": "Veterano",
-				"marca":"01:23:48",
-				"fecha": "16 Diciembre 2012",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "Veterano",
-				"marca":"01:23:50",
-				"fecha": "28 Marzo 2009",
-				"lugar": "Azkoitia"
-			},
-			{
-				"atleta": "Javi Fragua",
-				"categoria": "V-40",
-				"marca":"01:28:08",
-				"fecha": "18 Mayo 2014",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Txema Rueda Ayuso",
-				"categoria": "Veterano",
-				"marca":"01:30:12",
-				"fecha": "15 Mayo 2011",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Miguel Plaza",
-				"categoria": "Veterano",
-				"marca":"01:35:31",
-				"fecha": "18 Mayo 2014",
-				"lugar": "Donostia"
-			}
-		]
-	},
-	{
-		"prueba": "Maraton",
-		"resultados": [
-			{
-				"atleta": "David Huebra Gomez",
-				"categoria": "Senior",
-				"marca":"02:32:43",
-				"fecha": "28 Noviembre 2004",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Ion Otermin Zelaia",
-				"categoria": "Senior",
-				"marca":"02:34:39",
-				"fecha": "29 Noviembre 2015",
-				"lugar": "Vitoria"
-			},
-			{
-				"atleta": "Benito Fernandez Sanchez",
-				"categoria": "Veterano",
-				"marca":"02:42:03",
-				"fecha": "25 Noviembre 2012",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Mikel Fernandez Almena",
-				"categoria": "Veterano",
-				"marca":"03:04:45",
-				"fecha": "28 Noviembre 2010",
-				"lugar": "Donostia"
-			}
-		]
-	},
-	{
-		"prueba": "Peso 4Kg",
+		"prueba": "Peso 3Kg",
 		"resultados": [
 			{
 				"atleta": "Carlos Benitez Oiarbide",
