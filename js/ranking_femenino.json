@@ -1313,32 +1313,95 @@
 		"prueba": "Peso 3Kg",
 		"resultados": [
 			{
-				"atleta": "Carlos Benitez Oiarbide",
+				"atleta": "Ana Caballero Collado",
 				"categoria": "Cadete",
-				"marca":"12m 11",
-				"fecha": "18 Febrero 1995",
-				"lugar": "Zaragoza"
+				"marca":"10m 88",
+				"fecha": "01 Mayo 1991",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Gabriel Jimeno",
+				"atleta": "Irene Paredes Hernandez",
 				"categoria": "Cadete",
-				"marca":"11m 99",
-				"fecha": "08 Mayo 2015",
-				"lugar": "Durango"
+				"marca":"10m 86",
+				"fecha": "12 Marzo 2006",
+				"lugar": "Oviedo"
 			},
 			{
-				"atleta": "Joel Reyes",
+				"atleta": "Irati Zabaleta Etxarri",
 				"categoria": "Cadete",
-				"marca":"8m 82",
-				"fecha": "15 Marzo 2009",
+				"marca":"9m 03",
+				"fecha": "12 Abril 2008",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Nerea Diez Murillo",
+				"categoria": "Cadete",
+				"marca":"9m 02",
+				"fecha": "02 Diciembre 2005",
 				"lugar": "Belodromo Donostia"
 			},
 			{
-				"atleta": "Andoni Iglesias Liroz",
+				"atleta": "Miriam Maiz Etxaniz",
 				"categoria": "Cadete",
-				"marca":"8m 57",
-				"fecha": "24 Junio 2006",
-				"lugar": "Vitoria"
+				"marca":"9m 00",
+				"fecha": "28 Diciembre 1996",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Olatz Baladron Hertz",
+				"categoria": "Juvenil",
+				"marca":"8m 48",
+				"fecha": "20 Abril 2013",
+				"lugar": "Arrasate"
+			},
+			{
+				"atleta": "Marina Arregi Mager",
+				"categoria": "Cadete",
+				"marca":"7m 34",
+				"fecha": "27 Mayo 2001",
+				"lugar": "Eibar"
+			},
+			{
+				"atleta": "Ainhoa Toledo",
+				"categoria": "Infantil",
+				"marca":"7m 28",
+				"fecha": "01 Marzo 2014",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Maitane Arrizabalaga Gil",
+				"categoria": "Infantil",
+				"marca":"6m 92",
+				"fecha": "27 Abril 2008",
+				"lugar": "Tolosa"
+			},
+			{
+				"atleta": "Maitane Hernandez Muñoz",
+				"categoria": "Infantil",
+				"marca":"6m 91",
+				"fecha": "28 Marzo 2008",
+				"lugar": "Zumarraga"
+			},
+			{
+				"atleta": "Maria Peñagarikano",
+				"categoria": "Infantil",
+				"marca":"6m 70",
+				"fecha": "03 Mayo 2014",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Ane Garralda Udabe",
+				"categoria": "Cadete",
+				"marca":"6m 68",
+				"fecha": "02 Diciembre 2005",
+				"lugar": "Belodromo Donostia"
+			},
+			{
+				"atleta": "Garazi Zabaleta Etxarri",
+				"categoria": "Infantil",
+				"marca":"6m 63",
+				"fecha": "27 Abril 2008",
+				"lugar": "Tolosa"
 			}
 		]
 	},
