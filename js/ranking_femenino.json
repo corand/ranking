@@ -2240,83 +2240,78 @@
 		]
 	},
 	{
-		"prueba": "Marcha 3Km P.C.",
-		"resultados": [
-			{
-				"atleta": "Juan Carlos Ugarte",
-				"categoria": "V-55",
-				"marca":"15:43:96",
-				"fecha": "03 Marzo 2013",
-				"lugar": "Zaragoza"
-			},
-			{
-				"atleta": "Igor Mugarza Teran",
-				"categoria": "Infantil",
-				"marca":"18:08:53",
-				"fecha": "25 Diciembre 2015",
-				"lugar": "Belodromo Donostia"
-			}
-		]
-	},
-	{
 		"prueba": "4x100",
 		"resultados": [
 			{
-				"atleta": "Carlos Benitez (selec. españa)",
-				"categoria": "Junior",
-				"marca":"40:58",
-				"fecha": "18 Julio 1998",
-				"lugar": "Alicante"
+				"atleta": "Marina Arregi (ATSS)",
+				"categoria": "Cadete",
+				"marca":"50:75",
+				"fecha": "31 Mayo 2000",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Iñaki Casas (selec. españa)",
-				"categoria": "Juvenil",
-				"marca":"41:18",
-				"fecha": "17 Julio 1999",
+				"atleta": "A.Solanas-M.Solanas-Igay-Maiz",
+				"categoria": "Junior",
+				"marca":"52:38",
+				"fecha": "16 Junio 1995",
 				"lugar": "Polonia",
 				"record": "Record españa"
 			},
 			{
-				"atleta": "Javi Gomez (txindoki)",
-				"categoria": "Senior",
-				"marca":"45:22",
-				"fecha": "08 Abril 2000",
-				"lugar": "Basauri"
-			},
-			{
-				"atleta": "Igor Zabala (At. SS)",
+				"atleta": "Montse-Adriana-Rakel-Idoia",
 				"categoria": "Cadete",
-				"marca":"47:42",
-				"fecha": "01 Junio 2002",
-				"lugar": "Basauri"
+				"marca":"52:93",
+				"fecha": "01 Mayo 1991",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Javi-Joel-Iñaki-Xabi Zum.",
+				"atleta": "A Solanas-M.Solanas-Igay-Makibar",
 				"categoria": "Senior",
-				"marca":"49:50",
-				"fecha": "09 Junio 2012",
-				"lugar": "Ordizia"
+				"marca":"53:04",
+				"fecha": "01 Mayo 1994",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Gabriel-Joel-Xabi Zab.-Joxe",
-				"categoria": "Senior",
-				"marca":"49:64",
-				"fecha": "25 Abril 2015",
-				"lugar": "Durango"
+				"atleta": "Amaia-Miren-Manso-L.Zaldua",
+				"categoria": "Cadete",
+				"marca":"53:76",
+				"fecha": "01 Mayo 1994",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Hamza-Javi-Juan Luis-Tasio",
-				"categoria": "Senior",
-				"marca":"50:57",
-				"fecha": "10 Mayo 2014",
-				"lugar": "Durango"
+				"atleta": "Ainara-Beatriz-Laura-Leire",
+				"categoria": "Cadete",
+				"marca":"54:78",
+				"fecha": "01 Mayo 1995",
+				"lugar": "Donostia"
 			},
 			{
-				"atleta": "Joseba-Unai-Boya-Gutierrez",
+				"atleta": "I.Mendi-Eider R-Ainhoa-Alaitz(Eibar)",
+				"categoria": "Cadete",
+				"marca":"54:80",
+				"fecha": "21 Junio 2014",
+				"lugar": "Vitoria"
+			},
+			{
+				"atleta": "Paredes-A. Calvo-Murguiondo-Rodriguez",
 				"categoria": "Senior",
-				"marca":"50:80",
-				"fecha": "26 Mayo 2007",
+				"marca":"54:86",
+				"fecha": "24 Junio 2006",
 				"lugar": "Gasteiz"
+			},
+			{
+				"atleta": "Irati Z.-Irati Zub.-Maite-Maider",
+				"categoria": "Cadete",
+				"marca":"55:11",
+				"fecha": "20 Junio 2009",
+				"lugar": "Gasteiz"
+			},
+			{
+				"atleta": "Eider-June-Ainhoa-Leire",
+				"categoria": "Infantil",
+				"marca":"56:31",
+				"fecha": "10 Junio 2014",
+				"lugar": "Tolosa"
 			}
 		]
 	},
@@ -2324,25 +2319,11 @@
 		"prueba": "4x200",
 		"resultados": [
 			{
-				"atleta": "Carlos Benitez (selec. españa)",
-				"categoria": "Junior",
-				"marca":"01:30:02",
-				"fecha": "21 Marzo 1998",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Iñaki Casas",
-				"categoria": "Cadete",
-				"marca":"1:34:90",
-				"fecha": "19 Diciembre 1998",
-				"lugar": "Belodromo Donostia"
-			},
-			{
-				"atleta": "Igor Zabala (seleccion)",
-				"categoria": "Juvenil",
-				"marca":"1:39:49",
-				"fecha": "03 Enero 2004",
-				"lugar": "Belodromo Donostia"
+				"atleta": "Marisol Ramos (selec. españa)",
+				"categoria": "V",
+				"marca":"02:11:88",
+				"fecha": "20 Marzo 2011",
+				"lugar": "Gante"
 			}
 		]
 	},
@@ -2350,11 +2331,18 @@
 		"prueba": "4x300",
 		"resultados": [
 			{
-				"atleta": "Angulo-Barrio-Iglesias-Aldasoro",
-				"categoria": "Senior",
-				"marca":"02:56:40",
-				"fecha": "21 Junio 2006",
-				"lugar": "Eibar"
+				"atleta": "Montse-Adriana-Rakel-Idoia",
+				"categoria": "Cadete",
+				"marca":"03:05:00",
+				"fecha": "01 Mayo 1991",
+				"lugar": "Donostia"
+			},
+			{
+				"atleta": "Maitane-Maitane-lidia-Ana",
+				"categoria": "Cadete",
+				"marca":"03:32:96",
+				"fecha": "20 Junio 2009",
+				"lugar": "Vitoria"
 			}
 		]
 	},
@@ -2362,53 +2350,25 @@
 		"prueba": "4x400",
 		"resultados": [
 			{
-				"atleta": "Unai Hernandez Muñoz(ATSS)",
+				"atleta": "Irati Zurutuza ( Selec. Euskadi)",
 				"categoria": "Senior",
-				"marca":"03:29:89",
-				"fecha": "29 Abril 2012",
+				"marca":"04:09:17",
+				"fecha": "29 Mayo 2011",
+				"lugar": "Valladolid"
+			},
+			{
+				"atleta": "Marina Arregi (ATSS)",
+				"categoria": "Junior",
+				"marca":"04:25:38",
+				"fecha": "27 Abril 2002",
+				"lugar": "Gasteiz"
+			},
+			{
+				"atleta": "M.Solanas-Manso-Apellaniz-Mº Eli",
+				"categoria": "Senior",
+				"marca":"04:32:39",
+				"fecha": "22 Abril 1995",
 				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Javi Gomez (Urola)",
-				"categoria": "Senior",
-				"marca":"03:39:20",
-				"fecha": "25 Julio 1985",
-				"lugar": "Ordizia"
-			},
-			{
-				"atleta": "Joel-Unai-Yeray-Sergio",
-				"categoria": "Senior",
-				"marca":"03:39:41",
-				"fecha": "10 Mayo 2014",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Unai-Walid-Yeray-Sergio",
-				"categoria": "Senior",
-				"marca":"03:40:83",
-				"fecha": "10 Junio 2012",
-				"lugar": "Donostia"
-			},
-			{
-				"atleta": "Unai-Sergio-Yeray-Dayber",
-				"categoria": "Senior",
-				"marca":"03:46:17",
-				"fecha": "25 Abril 2015",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Unai-Joel-Kike-Sergio",
-				"categoria": "Juvenil",
-				"marca":"03:48:78",
-				"fecha": "17 Julio 2012",
-				"lugar": "Durango"
-			},
-			{
-				"atleta": "Javi-Tasio-David-Luis",
-				"categoria": "V-40",
-				"marca":"04:01:01",
-				"fecha": "14 Julio 2013",
-				"lugar": "Vitoria"
 			}
 		]
 	}
