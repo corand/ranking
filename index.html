@@ -23,7 +23,7 @@
           </select>
         </div>
         <div class="col-md-3">
-          <select class="form-control" ng-options="froga as froga.prueba for froga in ranking" ng-model="froga" ng-change="aukeratuFroga()"></select>
+          <select class="form-control" ng-disabled="!genero_selected" ng-options="froga as froga.prueba for froga in ranking" ng-model="froga" ng-change="aukeratuFroga()"></select>
         </div>
       </div>
 
